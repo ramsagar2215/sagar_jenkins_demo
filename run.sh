@@ -2,4 +2,4 @@
 
 set -e 
 
-`python -m unittest basic.py -v`
+`python basic.py`
